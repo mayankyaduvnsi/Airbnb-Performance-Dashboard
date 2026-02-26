@@ -119,6 +119,20 @@ This project converts raw listing and review data into strategic insights for pe
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](https://github.com/mayankyaduvnsi/Airbnb-Performance-Dashboard/blob/main/Airbnb%20Dashboard.png)
-![Ratings Preview](https://github.com/mayankyaduvnsi/Airbnb-Performance-Dashboard/blob/main/Ratings.png)
-![Reviews Preview](images/reviews_trust.png)
+
+Dashboard: ![Dashboard Preview](https://github.com/mayankyaduvnsi/Airbnb-Performance-Dashboard/blob/main/Airbnb%20Dashboard.png)
+Ratings: ![Ratings Preview](https://github.com/mayankyaduvnsi/Airbnb-Performance-Dashboard/blob/main/Ratings.png)
+Reviews: ![Reviews Preview](https://github.com/mayankyaduvnsi/Airbnb-Performance-Dashboard/blob/main/Reviews.png)
+
+---
+
+## 👨‍💻 Author
+
+**Mayank Yadav**  
+Aspiring Data Analyst | Power BI Enthusiast  
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub and feel free to connect!
