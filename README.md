@@ -109,7 +109,7 @@ This project converts raw listing and review data into strategic insights for pe
 
 ## 💡 Business Insights Generated
 
-- Airbnb peaked around 2015 before regulatory slowdown
+- Airbnb peaked around 2015 before the regulatory slowdown
 - Entire Place listings dominate revenue contribution
 - Summer season drives European city growth
 - Review behavior is heavily skewed toward single-time reviewers
@@ -119,7 +119,7 @@ This project converts raw listing and review data into strategic insights for pe
 
 ## 📷 Dashboard Preview
 
-> Add your screenshots here:
+
 
 ```markdown
 ![Growth Analysis](images/growth.png)
