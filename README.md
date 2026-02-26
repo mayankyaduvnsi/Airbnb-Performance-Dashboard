@@ -119,10 +119,7 @@ This project converts raw listing and review data into strategic insights for pe
 
 ## 📷 Dashboard Preview
 
-
-
-```markdown
-![Growth Analysis](images/growth.png)
-![Market Share](images/market_share.png)
+![Dashboard Preview](https://github.com/mayankyaduvnsi/Airbnb-Performance-Dashboard/blob/main/Airbnb%20Dashboard.png)
+![](images/market_share.png)
 ![Ratings](images/ratings.png)
 ![Reviews & Trust](images/reviews_trust.png)
